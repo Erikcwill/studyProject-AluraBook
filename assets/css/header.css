@@ -3,11 +3,12 @@
   height: 24px;
   background-image: url(/assets/img/Menu.svg);
   background-repeat: no-repeat;
+  background-position: center;
   display: inline-block;
 }
 
 .header {
-  background-color: var(--background-color);
+  background-color: var(--white);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -46,7 +47,7 @@
 }
 
 .menu-list__link {
-  color: var(--gradient-blue);
+  background: var(--gradient-blue);
   background-clip: text;   
   text-transform: uppercase; 
   text-decoration: none;
