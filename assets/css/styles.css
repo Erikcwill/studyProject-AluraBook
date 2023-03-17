@@ -12,6 +12,10 @@
     --gradient-blue: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);    
     --main-font: "Poppins";
     --blue: #002F52;
+    --secondary-font: "Josefin Sans";
+    --black: #000000;
+    --gray: #474646;
+    --gray-light: #858585;
 }
 
 body {
