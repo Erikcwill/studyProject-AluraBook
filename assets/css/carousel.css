@@ -66,17 +66,14 @@
 }
 
 .button_ancher {
-  text-decoration: none;
   background-color: var(--orange);
   padding: 1em 2.2em;
   color: var(--white);
   font-weight: 700;
-  text-deco
-  
-  ration: none;
+  text-decoration: none;
 }
 .button_ancher:active {
-  background-color: var(--blue);
+  background-color: var(--);
 }
 
 @media screen and (min-width: 1024px) {
