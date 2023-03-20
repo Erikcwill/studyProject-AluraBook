@@ -1,30 +1,47 @@
-<p align="end">Para ver em <a href="/docs/README_pt.md">Português Brasileiro</a> <img align="center" height="30" width="30" alt="react" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1e7-1f1f7.png"> </p>  
+<p align="end">Para ver em <a href="/docs/readme_pt.md">Português Brasileiro</a> <img align="center" height="30" width="30" alt="react" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1e7-1f1f7.png"> </p>  
 
-# Estudo de Responsividade - Mobile First
 
-Esse é um projeto de estudos focado em desenvolvimento web responsivo utilizando a metodologia "mobile first". O objetivo é simular um ambiente real de trabalho, onde recebi um modelo no Figma e precisei desenvolver a versão web para dispositivos móveis.
+# AluraBooks
 
-## O que é o projeto?
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **AluraBooks**
+| :label: Tecnologias | java, html, css
+| :rocket: URL         | https://study-project-alura-book.vercel.app/
+| :fire: Desafio     | 
 
-O projeto consiste em desenvolver uma página web responsiva, que se adapta a diferentes tamanhos de tela, seguindo a metodologia "mobile first". Todo o layout foi projetado no Figma, e o desafio foi transformar esse design em uma página web utilizando HTML e CSS.
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Como acessar o projeto?
+## Detalhes do projeto
+ 
+# Responsiveness Study - Mobile First
 
-O projeto está disponível no seguinte link: [link do projeto](https://seu-link-aqui.com/).
+This is a study project focused on responsive web development using the "mobile first" methodology. The goal is to simulate a real work environment, where I received a design model in Figma and had to develop the web version for mobile devices.
 
-## Tecnologias utilizadas
+## What is the project?
 
-Para o desenvolvimento do projeto, utilizei as seguintes tecnologias:
+The project consists of developing a responsive web page that adapts to different screen sizes, following the "mobile first" methodology. The entire layout was designed in Figma, and the challenge was to transform this design into a web page using HTML and CSS.
+
+## How to access the project?
+
+The project is available at the following link: [project link](https://your-link-here.com/).
+
+## Technologies used
+
+For the development of the project, I used the following technologies:
 
 -   HTML
 -   CSS
 
-## Metodologia mobile first
+## Mobile first methodology
 
-O conceito de "mobile first" consiste em desenvolver a versão móvel de um website antes da versão para desktop. Isso significa que o layout, a estrutura e o conteúdo são projetados pensando primeiro em dispositivos móveis, e depois adaptados para telas maiores.
+The "mobile first" concept consists of developing the mobile version of a website before the desktop version. This means that the layout, structure, and content are designed with mobile devices in mind first, and then adapted for larger screens.
 
-Ao utilizar essa metodologia, é possível garantir que a página seja responsiva e se adapte bem a qualquer dispositivo, além de melhorar a velocidade de carregamento e a experiência do usuário em dispositivos móveis.
+By using this methodology, it is possible to ensure that the page is responsive and adapts well to any device, as well as improving loading speed and user experience on mobile devices.
 
-## Conclusão
+## Conclusion
 
-Esse projeto de estudo de responsividade foi uma excelente oportunidade de praticar minhas habilidades em desenvolvimento web, especialmente utilizando a metodologia mobile first. Com esse projeto, pude aprender mais sobre como projetar e desenvolver páginas web responsivas e adaptáveis a diferentes dispositivos.
+This responsiveness study project was an excellent opportunity to practice my web development skills, especially using the mobile first methodology. With this project, I was able to learn more about designing and developing responsive and adaptable web pages for different devices.
+
+
