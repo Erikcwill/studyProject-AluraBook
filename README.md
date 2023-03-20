@@ -25,7 +25,7 @@ The project consists of developing a responsive web page that adapts to differen
 
 ## How to access the project?
 
-The project is available at the following link: [project link](https://your-link-here.com/).
+The project is available at the following link: [project link](https://study-project-alura-book.vercel.app/).
 
 ## Technologies used
 
